@@ -1,0 +1,24 @@
+        body {
+            margin: 0;
+            font-family: arial;
+            font-size: 13px;
+        }
+
+        #links {
+            width: 250px;
+            height: 650px;
+            float: left;
+            background-color: black;
+            color: grey;
+        }
+        
+        #rechts {
+            width: 630px;
+            height: 570px;
+            padding: 40px;
+            float: left;
+            background-color: #eee;
+        }
+
+ 
+        
